@@ -30,7 +30,7 @@
  <br />
  <br />
  <img align="left" src="https://i.ibb.co/ZXdckT3/code.png" alt="the robot with installed code chip" width="100" />
- <h3 align="left">Then we add our logic in code.</h3>
+ <h3 align="left">Then we add our logic chip.</h3>
  At this point I love to use Typescript and test it with Jest and Puppeteer.
  <br />
  <br />
@@ -80,7 +80,7 @@
  <br />
  <br />
  <br />
- <img align="left" src="https://i.ibb.co/gPs8wnD/publish.png" alt="the robot appear on a phone screen" width="100" />
+ <img align="left" src="https://i.ibb.co/MsY8MtP/publish-small.gif" alt="the robot appear on a phone screen" width="100" />
  <h3 align="left">At the very end let’s ship our app.</h3>
  With the simplicity of Firebase, We can publish our app with just one click.
  <br />
