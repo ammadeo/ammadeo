@@ -3,7 +3,7 @@
 <br />
 <p>
  <img align="left" src="https://i.ibb.co/QFP2y8B/framework.png" alt="plain robot with v shaped head" width="100" />
- <h3 align="left">We start from frameworks core.</h3>
+ <h3 align="left">We start with a framework base.</h3>
  My personal favorites are Vue.js and Nuxt.js with Webpack.
  <br />
  <br />
@@ -81,7 +81,7 @@
  <br />
  <br />
  <img align="left" src="https://i.ibb.co/gPs8wnD/publish.png" alt="the robot appear on a phone screen" width="100" />
- <h3 align="left">At the very end let’s ship our app to users.</h3>
+ <h3 align="left">At the very end let’s ship our app.</h3>
  With the simplicity of Firebase, We can publish our app with just one click.
  <br />
  <br />
@@ -124,6 +124,11 @@
      <img src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" alt="Vuetify" height="40" align="center" />
     </a>
    </th>
+    <th>
+    <a href="https://animejs.com/">
+    anime.js
+    </a>
+   </th>
   </tr>
  </table>
  <br />
@@ -147,4 +152,21 @@
    </th>
   </tr>
  </table>
+ <br />
+ <h4>Stuff that I’d loved to learn for You</h4>
+ <table>
+  <tr>
+   <th>
+    <a href="https://reactjs.org/">
+     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="40" align="center" />
+    </a>
+   </th>
+    <th>
+    <a href="https://www.pixijs.com/">
+    Pixi.js
+    </a>
+   </th>
+  </tr>
+ </table>
+ <br />
 </p>
