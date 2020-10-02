@@ -59,7 +59,7 @@
  <br />
  <br />
  <img align="left" src="https://i.ibb.co/5KsGkZb/style.png" alt="the robot with a red tie" width="100" />
- <h3 align="left">Next We design its plating.</h3>
+ <h3 align="left">Next We design its style.</h3>
  The coolest css framework I'd used so far is Tailwind.css with PostCSS
  <br />
  <br />
@@ -81,7 +81,7 @@
  <br />
  <br />
  <img align="left" src="https://i.ibb.co/MsY8MtP/publish-small.gif" alt="the robot appear on a phone screen" width="100" />
- <h3 align="left">At the very end let’s ship our app.</h3>
+ <h3 align="left">At the very end let’s ship it.</h3>
  With the simplicity of Firebase, We can publish our app with just one click.
  <br />
  <br />
