@@ -167,6 +167,11 @@
     </a>
    </th>
     <th>
+    <a href="http://rollupjs.org/">
+     <img src="https://avatars0.githubusercontent.com/u/12554859?s=200&v=4" alt="rollup" height="40" align="center" />
+    </a>
+   </th>
+    <th>
     <a href="https://www.pixijs.com/">
     Pixi.js
     </a>
