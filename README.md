@@ -158,7 +158,7 @@
   </tr>
  </table>
  <br />
- <h4>Stuff that I’d loved to learn for You</h4>
+ <h4>Stuff that I’d loved to learn more</h4>
  <table>
   <tr>
    <th>
