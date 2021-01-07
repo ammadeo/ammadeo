@@ -119,6 +119,8 @@
      <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" height="40" align="center" />
     </a>
    </th>
+   </tr>
+   <tr>
    <th>
     <a href="https://sass-lang.com/">
      <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="60" height="40" align="center" />
