@@ -2,7 +2,7 @@
 <h3>Modern web is like building a robot.</h3>
 <br />
 <p>
- <img align="left" src="https://i.ibb.co/QFP2y8B/framework.png" alt="plain robot with v shaped head" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/framework_uzo8xi.svg" alt="plain robot with v shaped head" width="100" />
  <h3 align="left">We start with a framework base.</h3>
  My personal favorites are Vue.js and Nuxt.js with Webpack.
  <br />
@@ -29,7 +29,7 @@
  <br />
  <br />
  <br />
- <img align="left" src="https://i.ibb.co/ZXdckT3/code.png" alt="the robot with installed code chip" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/code_imh7js.svg" alt="the robot with installed code chip" width="100" />
  <h3 align="left">Then we add our logic chip.</h3>
  At this point I love to use Typescript and test it with Jest and Puppeteer.
  <br />
@@ -58,7 +58,7 @@
  <br />
  <br />
  <br />
- <img align="left" src="https://i.ibb.co/5KsGkZb/style.png" alt="the robot with a red tie" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/style_hh55wj.svg" alt="the robot with a red tie" width="100" />
  <h3 align="left">Next We design its style.</h3>
  The coolest css framework I'd used so far is Tailwind.css with PostCSS
  <br />
@@ -80,7 +80,7 @@
  <br />
  <br />
  <br />
- <img align="left" src="https://i.ibb.co/MsY8MtP/publish-small.gif" alt="the robot appear on a phone screen" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/c_scale,f_auto,w_100/v1610629867/github%20profile/publish_jepeff.gif" alt="the robot appear on a phone screen" width="100" />
  <h3 align="left">At the very end let’s ship it.</h3>
  With the simplicity of Firebase, We can publish our app with just one click.
  <br />
