@@ -2,7 +2,7 @@
 <h3>Modern web is like building a robot.</h3>
 <br />
 <p>
- <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/framework_uzo8xi.svg" alt="plain robot with v shaped head" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/framework_zmyrsv.svg" alt="plain robot with v shaped head" width="100" />
  <h3 align="left">We start with a framework base.</h3>
  My personal favorites are Vue.js and Nuxt.js with Webpack.
  <br />
@@ -29,7 +29,7 @@
  <br />
  <br />
  <br />
- <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/code_imh7js.svg" alt="the robot with installed code chip" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/code_fr2tmh.svg" alt="the robot with installed code chip" width="100" />
  <h3 align="left">Then we add our logic chip.</h3>
  At this point I love to use Typescript and test it with Jest and Puppeteer.
  <br />
@@ -58,7 +58,7 @@
  <br />
  <br />
  <br />
- <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/style_hh55wj.svg" alt="the robot with a red tie" width="100" />
+ <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/style_bfqiem.svg" alt="the robot with a red tie" width="100" />
  <h3 align="left">Next We design its style.</h3>
  The coolest css framework I'd used so far is Tailwind.css with PostCSS
  <br />
