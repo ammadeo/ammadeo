@@ -1,4 +1,5 @@
 <h1 align="left">Let's build a frontend machine!</h1>
+<p>Need some help with Your website? <a href="mailto:job@amadeo.dev">Send Me a message on job@amadeo.dev</a></p>
 <h3>Modern web is like building a robot</h3>
 <br />
 <p>
