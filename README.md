@@ -1,10 +1,10 @@
 <h1 align="left">Let's build a frontend machine!</h1>
-<h3>Modern web is like building a robot.</h3>
+<h3>Modern web is like building a robot</h3>
 <br />
 <p>
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/framework_zmyrsv.svg" alt="plain robot with v shaped head" width="100" />
- <h3 align="left">We start with a framework base.</h3>
- My personal favorites are Vue.js and Nuxt.js with Webpack.
+ <h3 align="left">We start with a framework base</h3>
+ My personal favorites are Vue.js and Nuxt.js with Webpack
  <br />
  <br />
  <table>
@@ -30,8 +30,8 @@
  <br />
  <br />
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/code_fr2tmh.svg" alt="the robot with installed code chip" width="100" />
- <h3 align="left">Then we add our logic chip.</h3>
- At this point I love to use Typescript and test it with Jest and Puppeteer.
+ <h3 align="left">Then we add our logic chip</h3>
+As my language of choice I love to use Typescript and test it with Jest and Puppeteer
  <br />
  <br />
  <table>
@@ -59,7 +59,7 @@
  <br />
  <br />
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/style_bfqiem.svg" alt="the robot with a red tie" width="100" />
- <h3 align="left">Next We design its style.</h3>
+ <h3 align="left">Let’s design its style</h3>
  The coolest css framework I'd used so far is Tailwind.css with PostCSS
  <br />
  <br />
@@ -81,8 +81,8 @@
  <br />
  <br />
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/c_scale,f_auto,w_100/v1610629867/github%20profile/publish_jepeff.gif" alt="the robot appear on a phone screen" width="100" />
- <h3 align="left">At the very end let’s ship it.</h3>
- With the simplicity of Firebase, We can publish our app with just one click.
+ <h3 align="left">Deliver to users</h3>
+ With the simplicity of Firebase, We can publish our app with just one click
  <br />
  <br />
  <table>
