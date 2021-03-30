@@ -171,7 +171,7 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
    </th>
     <th>
     <a href="http://rollupjs.org/">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640920/github%20profile/icons/rollup_h1nywy.jpg" alt="rollup" height="40" align="center" />
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640920/github%20profile/icons/rollup_transparent_dok0zo.png" alt="rollup" height="40" align="center" />
     </a>
    </th>
     <th>
