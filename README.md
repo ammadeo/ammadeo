@@ -136,7 +136,7 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
  <br />
  <br />
  <br />
-  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/c_scale,f_auto,w_100/v1610629867/github%20profile/A11Y_dbvnmk.svg" alt="the robot appear on a phone screen" width="100" />
+  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/c_scale,f_auto,w_100/v1610629867/github%20profile/A11Y_dbvnmk.svg" alt="Alternative text on a phone screen" width="100" />
  <h3 align="left">Allow everyone to use it</h3>
  Let's not forget about making it accessible for all users. I love to test A11Y with screen readers like TalkBack and NVDA.
  <br />
