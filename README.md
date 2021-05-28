@@ -201,8 +201,41 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
  <br />
  <br />
  <h3>Other stuff that I’ve worked with</h3>
- <h4>Cool stuff</h4>
  <table>
+  <tr>
+   <th>
+    <a href="https://github.com/topics/css">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637953/github%20profile/icons/css_xxo3rm.png" alt="css3" height="40" align="center" />
+    </a>
+   </th>
+   <th>
+    <a href="https://github.com/topics/html">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637876/github%20profile/icons/html_wwcvie.png" alt="html5" height="40" align="center" />
+    </a>
+   </th>
+   <th>
+    <a href="https://github.com/topics/javascript">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637895/github%20profile/icons/javascript_cxzlbu.png" alt="javascript" height="40" align="center" />
+    </a>
+   </th>
+  </tr>
+   <tr>
+   <th>
+    <a href="https://github.com/topics/css">
+      CSS
+    </a>
+   </th>
+    <th>
+    <a href="https://github.com/topics/html">
+      HTML
+    </a>
+   </th>
+    <th>
+    <a href="https://github.com/topics/javascript">
+      Javascript
+    </a>
+   </th>
+  </tr>
   <tr>
    <th>
     <a href="https://storybook.js.org/">
@@ -273,45 +306,7 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
   </tr>
  </table>
  <br />
- <h4>Stuff that everyone knows</h4>
- <table>
-  <tr>
-   <th>
-    <a href="https://github.com/topics/css">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637953/github%20profile/icons/css_xxo3rm.png" alt="css3" height="40" align="center" />
-    </a>
-   </th>
-   <th>
-    <a href="https://github.com/topics/html">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637876/github%20profile/icons/html_wwcvie.png" alt="html5" height="40" align="center" />
-    </a>
-   </th>
-   <th>
-    <a href="https://github.com/topics/javascript">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637895/github%20profile/icons/javascript_cxzlbu.png" alt="javascript" height="40" align="center" />
-    </a>
-   </th>
-  </tr>
-   <tr>
-   <th>
-    <a href="https://github.com/topics/css">
-      CSS
-    </a>
-   </th>
-    <th>
-    <a href="https://github.com/topics/html">
-      HTML
-    </a>
-   </th>
-    <th>
-    <a href="https://github.com/topics/javascript">
-      Javascript
-    </a>
-   </th>
-  </tr>
- </table>
- <br />
- <h4>Stuff that I’d loved to learn more</h4>
+ <h3>I’d love to learn more about</h3>
  <table>
   <tr>
    <th>
