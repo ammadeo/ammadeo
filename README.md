@@ -199,7 +199,6 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
  <br />
  <br />
  <br />
- <br />
  <h3>Other stuff that I’ve worked with</h3>
  <table>
   <tr>
