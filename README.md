@@ -5,7 +5,7 @@
 <p>
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/framework_zmyrsv.svg" alt="plain robot with v shaped head" width="100" />
  <h3 align="left">We start with a framework base</h3>
- My personal favorites are Vue.js and Nuxt.js with Webpack
+ My personal favorites are Vue.js and Nuxt.js with Webpack or Rollup
  <br />
  <br />
  <table>
@@ -25,6 +25,11 @@
      <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637991/github%20profile/icons/webpack_n5vvzd.png" alt="webpack" height="40" align="center" />
     </a>
    </th>
+    <th>
+    <a href="http://rollupjs.org/">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640920/github%20profile/icons/rollup_transparent_dok0zo.png" alt="rollup" height="40" align="center" />
+    </a>
+   </th>
   </tr>
  </table>
  <br />
@@ -32,7 +37,7 @@
  <br />
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/v1610632844/github%20profile/code_fr2tmh.svg" alt="the robot with installed code chip" width="100" />
  <h3 align="left">Then we add our logic chip</h3>
-As my language of choice I love to use Typescript and test it with Jest and Puppeteer
+As my language of choice I love to use Typescript and test it with Jest and Puppeteer.
  <br />
  <br />
  <table>
@@ -81,9 +86,34 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
  <br />
  <br />
  <br />
+  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/c_scale,f_auto,w_100/v1610629867/github%20profile/A11Y_dbvnmk.svg" alt="the robot appear on a phone screen" width="100" />
+ <h3 align="left">Allow everyone to use it</h3>
+ Let's not forget about making it accessible for all users. I love to test A11Y with screen readers like TalkBack and NVDA.
+ <br />
+ <br />
+ <table>
+  <tr>
+   <th>
+    <a href="https://firebase.google.com/">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638459/github%20profile/icons/Android-Accessibility-Suite_hdb8yv.png" alt="firebase" height="40" align="center" />
+    </a>
+   </th>
+   <th>
+    <a href="https://firebase.google.com/">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638459/github%20profile/icons/nvda_mtj8wp.png" alt="firebase" height="40" align="center" />
+    </a>
+   </th>
+  </tr>
+ </table>
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
  <img align="left" src="https://res.cloudinary.com/amadeusz/image/upload/c_scale,f_auto,w_100/v1610629867/github%20profile/publish_jepeff.gif" alt="the robot appear on a phone screen" width="100" />
  <h3 align="left">Deliver to users</h3>
- With the simplicity of Firebase, We can publish our app with just one click
+ With the simplicity of Firebase, We can publish our app with just one click.
  <br />
  <br />
  <table>
@@ -95,6 +125,7 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
    </th>
   </tr>
  </table>
+ <br />
  <br />
  <br />
  <br />
@@ -167,11 +198,6 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
    <th>
     <a href="https://reactjs.org/">
      <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640897/github%20profile/icons/reactjs-icon_cyabgt.svg" alt="react" height="40" align="center" />
-    </a>
-   </th>
-    <th>
-    <a href="http://rollupjs.org/">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640920/github%20profile/icons/rollup_transparent_dok0zo.png" alt="rollup" height="40" align="center" />
     </a>
    </th>
     <th>
