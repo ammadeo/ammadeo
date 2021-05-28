@@ -12,12 +12,12 @@
   <tr>
    <th>
     <a href="https://vuejs.org/">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637824/github%20profile/icons/vue_ruwkaz.png" alt="vuejs" height="40" align="center" />
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610637824/github%20profile/icons/vue_ruwkaz.png" alt="vue js" height="40" align="center" />
     </a>
    </th>
    <th>
     <a href="https://nuxtjs.org/">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638030/github%20profile/icons/nuxt_dw1jcb.png" alt="nuxtjs" height="40" align="center" />
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638030/github%20profile/icons/nuxt_dw1jcb.png" alt="nuxt js" height="40" align="center" />
     </a>
    </th>
    <th>
@@ -28,6 +28,28 @@
     <th>
     <a href="http://rollupjs.org/">
      <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640920/github%20profile/icons/rollup_transparent_dok0zo.png" alt="rollup" height="40" align="center" />
+    </a>
+   </th>
+  </tr>
+  <tr>
+   <th>
+    <a href="https://vuejs.org/">
+      Vue.js
+    </a>
+   </th>
+    <th>
+    <a href="https://nuxtjs.org/">
+      Nuxt.js
+    </a>
+   </th>
+    <th>
+    <a href="https://webpack.js.org/">
+      Webpack
+    </a>
+   </th>
+    <th>
+    <a href="http://rollupjs.org/">
+      Rollup
     </a>
    </th>
   </tr>
@@ -58,7 +80,23 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
     </a>
    </th>
   </tr>
-
+  <tr>
+   <th>
+    <a href="https://www.typescriptlang.org/">
+      Typescript
+    </a>
+   </th>
+    <th>
+    <a href="https://jestjs.io/">
+      Jest
+    </a>
+   </th>
+    <th>
+    <a href="https://pptr.dev/">
+      Puppeter
+    </a>
+   </th>
+  </tr>
  </table>
  <br />
  <br />
@@ -81,6 +119,18 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
     </a>
    </th>
   </tr>
+  <tr>
+   <th>
+    <a href="https://tailwindcss.com/">
+      Tailwind
+    </a>
+   </th>
+    <th>
+    <a href="https://postcss.org/">
+      PostCSS
+    </a>
+   </th>
+  </tr>
  </table>
  <br />
  <br />
@@ -94,13 +144,25 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
  <table>
   <tr>
    <th>
-    <a href="https://firebase.google.com/">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638459/github%20profile/icons/Android-Accessibility-Suite_hdb8yv.png" alt="firebase" height="40" align="center" />
+    <a href="https://support.google.com/accessibility/android/answer/6006564">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638459/github%20profile/icons/Android-Accessibility-Suite_hdb8yv.png" alt="TalkBack" height="40" align="center" />
     </a>
    </th>
    <th>
-    <a href="https://firebase.google.com/">
-     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638459/github%20profile/icons/nvda_mtj8wp.png" alt="firebase" height="40" align="center" />
+    <a href="https://www.nvaccess.org/">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610638459/github%20profile/icons/nvda_mtj8wp.png" alt="NVDA" height="40" align="center" />
+    </a>
+   </th>
+  </tr>
+  <tr>
+   <th>
+    <a href="https://support.google.com/accessibility/android/answer/6006564">
+      TalkBack
+    </a>
+   </th>
+    <th>
+    <a href="https://www.nvaccess.org/">
+      NVDA
     </a>
    </th>
   </tr>
@@ -124,8 +186,14 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
     </a>
    </th>
   </tr>
+   <tr>
+   <th>
+    <a href="https://firebase.google.com/">
+      Firebase
+    </a>
+   </th>
+  </tr>
  </table>
- <br />
  <br />
  <br />
  <br />
@@ -154,6 +222,23 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
    </tr>
    <tr>
    <th>
+    <a href="https://storybook.js.org/">
+      Storybook
+    </a>
+   </th>
+    <th>
+    <a href="http://www.hygen.io/">
+      Hygen
+    </a>
+   </th>
+    <th>
+    <a href="https://www.electronjs.org/">
+      Electron
+    </a>
+   </th>
+  </tr>
+   <tr>
+   <th>
     <a href="https://sass-lang.com/">
      <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610641710/github%20profile/icons/sass_plf88b.png" alt="sass" height="40" align="center" />
     </a>
@@ -164,8 +249,25 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
     </a>
    </th>
     <th>
-    <a href="https://animejs.com/">
-    anime.js
+    <a href="https://developers.google.com/web/tools/workbox">
+     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640875/github%20profile/icons/workbox_latk1f.png" alt="Workbox" height="40" align="center" />
+    </a>
+   </th>
+  </tr>
+   <tr>
+   <th>
+    <a href="https://sass-lang.com/">
+      SASS
+    </a>
+   </th>
+    <th>
+    <a href="https://vuetifyjs.com/">
+      Vuetify
+    </a>
+   </th>
+    <th>
+    <a href="https://developers.google.com/web/tools/workbox">
+      Workbox
     </a>
    </th>
   </tr>
@@ -190,6 +292,23 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
     </a>
    </th>
   </tr>
+   <tr>
+   <th>
+    <a href="https://github.com/topics/css">
+      CSS
+    </a>
+   </th>
+    <th>
+    <a href="https://github.com/topics/html">
+      HTML
+    </a>
+   </th>
+    <th>
+    <a href="https://github.com/topics/javascript">
+      Javascript
+    </a>
+   </th>
+  </tr>
  </table>
  <br />
  <h4>Stuff that I’d loved to learn more</h4>
@@ -203,6 +322,29 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
     <th>
     <a href="https://www.pixijs.com/">
     <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640944/github%20profile/icons/pixijs-v5-logo-1_bzxgev.png" alt="pixi js" align="center" />
+    </a>
+   </th>
+  <th>
+    <a href="https://threejs.org/">
+    <img src="https://res.cloudinary.com/amadeusz/image/upload/f_auto,t_g_icon/v1610640944/github%20profile/icons/threejs_ke1gpu" alt="three js" align="center" />
+    </a>
+   </th>
+  </tr>
+  </tr>
+   <tr>
+   <th>
+    <a href="https://reactjs.org/">
+      react
+    </a>
+   </th>
+    <th>
+    <a href="https://www.pixijs.com/">
+      pixi.js
+    </a>
+   </th>
+    <th>
+    <a href="https://threejs.org/">
+      three.js
     </a>
    </th>
   </tr>
