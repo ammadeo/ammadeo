@@ -1,5 +1,5 @@
 <h1 align="left">Let's build a frontend machine!</h1>
-<p>Need some help with Your website? <a href="mailto:job@amadeo.dev">Send Me a message on <em>job@amadeo.dev</em></a></p>
+<p>Need some help with Your website? <a href="mailto:hi@ammadeo.dev">Send Me a message on <em>hi@ammadeo.dev</em></a></p>
 <h3>Modern web is like building a robot</h3>
 <br />
 <p>
@@ -344,6 +344,6 @@ As my language of choice I love to use Typescript and test it with Jest and Pupp
   </tr>
  </table>
  <br />
- <p>Need some help with Your website? <a href="mailto:job@amadeo.dev">Send Me a message on <em>job@amadeo.dev</em></a></p>
+ <p>Need some help with Your website? <a href="mailto:hi@ammadeo.dev">Send Me a message on <em>hi@ammadeo.dev</em></a></p>
   <br />
 </p>
